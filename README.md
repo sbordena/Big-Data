@@ -27,10 +27,10 @@ improve the fit (and see how it works).
 
 1.3
 Given the original mle fit, all other things equal, what is the change in price
- for Rural North Dakota relative to Chicago?
- for Bush Light relative to Natural Light?
- for Coors Light due to promotion, at average log volume?
- for a Coors Light 6 pack (12oz cans) due to promotion?
+for Rural North Dakota relative to Chicago?
+for Bush Light relative to Natural Light?
+for Coors Light due to promotion, at average log volume?
+for a Coors Light 6 pack (12oz cans) due to promotion?
 
 1.4
 Plot the p-value distribution. What does it tell you about the underlying signal in this regression?
