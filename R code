@@ -1,5 +1,4 @@
 ### light beer solutions
-setwd("/Users/samuelbordenave/Documents/Google Drive/CHICAGO BOOTH/# Big Data/Midterm")
 
 install.packages("distrom")
 
